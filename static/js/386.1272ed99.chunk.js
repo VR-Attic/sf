@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksayfire_app=self.webpackChunksayfire_app||[]).push([[386],{5386:(s,e,a)=>{a.r(e),a.d(e,{SplashScreenWeb:()=>c});var p=a(9565);class c extends p.Uw{async show(s){}async hide(s){}}}}]);
